@@ -2,7 +2,7 @@
 
 Contributing to this project is very much easy.
 
--  ```Optional``` Open an issue describing the code you want to add to the repository then, wait to be assigned (Less than a day).
+- `Optional` Open an issue describing the code you want to add to the repository then, wait to be assigned (Less than a day).
 - Fork this Repository: Click the "Fork" button on the top right of this page to create your own copy of this repository.
 - Clone your Fork: Use git clone to clone your fork to your local machine.
   ```
@@ -12,10 +12,9 @@ Contributing to this project is very much easy.
   ```
   git checkout -b your-branch-name
   ```
-- Create a folder in the `src` folder with your github `username`. Inside this folder, create another folder with the name of the issue you want to solve.
-- Make sure to add a [README.md](/src/sranuluge/bigo/README.md) file describing how to do the installation. Check [Writing README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-- Add another [PROBLEM.md](/src/sranuluge/bigo/PROBLEM.md) file to describing the Problem.
-- Add a REQUIREMENT.txt file to make installation easier.
+- Create a folder in the `src` folder with your github `username`. Inside this folder, create another folder with the name of the `programming language` you'r going to use and inside this folder create another folder with the `name of the issue` you want to solve.
+- Make sure to add a [README.md](/src/sranuluge/python/find-duplicates/README.md) file describing how to do the installation. Check [Writing README](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Add another [PROBLEM.md](/src/sranuluge/python/find-duplicates/PROBLEM.md) file to describing the Problem.
 - Commit your changes: Create a new branch for your contribution.
   ```
   git add .
