@@ -11,4 +11,4 @@ def is_list_contain_duplicates_1(arr1, arr2):
 # O(a * b) Time complexity 
 # O(1)      Space complexity
 
-print(f'Method-01 {is_list_contain_duplicates_1(properties_list_1, properties_list_2)})')
+print(f'Method-01: {is_list_contain_duplicates_1(properties_list_1, properties_list_2)}')

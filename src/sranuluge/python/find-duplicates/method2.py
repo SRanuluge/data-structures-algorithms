@@ -15,4 +15,4 @@ def is_list_contain_duplicates_2(arr1, arr2):
 # O(a + b) when comes to the time complexity => good
 # O(a) Space complexity bad => creating a objet
 
-print(f'Method-01 {is_list_contain_duplicates_2(properties_list_1, properties_list_2)})')
+print(f'Method-02: {is_list_contain_duplicates_2(properties_list_1, properties_list_2)}')
