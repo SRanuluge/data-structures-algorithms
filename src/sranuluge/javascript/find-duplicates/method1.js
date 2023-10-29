@@ -13,5 +13,5 @@ function isContainDuplicate() {
   return false;
 }
 console.log(isContainDuplicate(array1, array2));
-// // O(a * b)  Time complexity
+// // O(a * b)   Time complexity
 // // O(1)       Space complexity this don't create new variables
