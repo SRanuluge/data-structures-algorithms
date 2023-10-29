@@ -7,7 +7,7 @@ LINK:
 Inputs:
 
 array1 = ['a', 'b', 'c', 'd', 'e', 'f']
-array1 = ['g', 'h', 'a', 'k', 'l', 'm']
+array2 = ['g', 'h', 'a', 'k', 'l', 'm']
 
 Output : True
 
