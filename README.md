@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-### An open source repository, dedicated to empowering enthusiasts in mastering `data structures and algorithms` using anu language!.
+### An open source repository, dedicated to empowering enthusiasts in mastering `data structures and algorithms` using any language!.
 
 This repository tailored to coding enthusiasts passionate about data structures and algorithms.
 
