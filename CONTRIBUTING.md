@@ -6,7 +6,7 @@ Contributing to this project is very much easy.
 - Fork this Repository: Click the "Fork" button on the top right of this page to create your own copy of this repository.
 - Clone your Fork: Use git clone to clone your fork to your local machine.
   ```
-  git clone https://github.com/your-username/python-data-structures-algorithms.git
+  git clone https://github.com/your-username/data-structures-algorithms.git
   ```
 - Create a Branch: Create a new branch for your contribution.
   ```
