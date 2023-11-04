@@ -5,7 +5,7 @@ properties_list_2 = ["f", "g", "w", "i", "h"]
 def is_list_contain_duplicates_1(arr1, arr2):
     for item in arr1:
         for nested_item in arr2:
-            if item == nested_item:
+            if item == nested_item: 
                 return True
     return False
 # O(a * b) Time complexity 
