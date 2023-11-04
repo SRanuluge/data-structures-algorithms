@@ -13,7 +13,7 @@ function isContainDuplicate() {
       return map[q];
     }
   }
-  return false;
+  return false;  
 }
 
 //o(a + b) when comes to the time complexity good
