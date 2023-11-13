@@ -15,7 +15,7 @@ This repository tailored to coding enthusiasts passionate about data structures 
 
 Contributors are always `WELCOME!` 
 
-I've created this repository as a collaborative space for learning and refining data structures and algorithms. I invite all `contributors` who like to share their expertise and knowledge, fostering a community of mutual learning and growth. `If you're an experienced coder, I'd love to have your expertise`.
+I've created this repository as a collaborative space for learning and refining data structures and algorithms. I invite all `contributors` who like to share their expertise and knowledge, fostering a community of mutual learning and growth. `If you're an experienced coder, I'd love to have your expertise`. 
 
 Please check out [Contribution Guide](CONTRIBUTING.md)
 
