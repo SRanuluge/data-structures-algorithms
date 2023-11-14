@@ -1,7 +1,7 @@
 ## Insttalation
 
 ### Clone the repository
-
+ 
 ```
 https://github.com/SRanuluge/python-data-structures-algorithms.git
 ```
