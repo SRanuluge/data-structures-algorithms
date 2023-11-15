@@ -11,7 +11,7 @@
 
 This repository tailored to coding enthusiasts passionate about data structures and algorithms.
 
-## Contributing 
+## Contributing  
 
 Contributors are always `WELCOME!`
 
