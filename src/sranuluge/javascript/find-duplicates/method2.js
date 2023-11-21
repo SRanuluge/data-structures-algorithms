@@ -18,4 +18,5 @@ function isContainDuplicate() {
 
 //o(a + b) when comes to the time complexity good
 //o(a) Space complexity bad => creating a objet
+
 console.log(isContainDuplicate(array1, array2));
