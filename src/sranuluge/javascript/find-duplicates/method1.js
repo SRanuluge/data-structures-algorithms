@@ -5,7 +5,7 @@ function isContainDuplicate() {
     if (v) {
       for (const [j, q] of array2.entries()) {
         if (v === q) {
-          return true; 
+          return true;
         }
       }
     }
